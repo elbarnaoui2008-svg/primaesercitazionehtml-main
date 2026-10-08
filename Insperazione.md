@@ -1,0 +1,3 @@
+Gioco : Open
+Descrizione: è letteralmente un openworld, con il multiplayer, e ha diversi ambienti, e diverse creature, e ha una dettagliata simulazione di animale, e della loro comportamento....
+
